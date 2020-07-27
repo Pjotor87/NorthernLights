@@ -3,6 +3,9 @@ This python application uses a gmail robot to send an email reminder to subscrib
 
 The target environment when I made this was my Raspberry pi 2 model B running raspbian 8.
 
+# Why?
+My ex gf heard that under some certain weather conditions it's possible to see the Northern Lights in Stockholm so I made her this app. For me personally, I will remember this system mostly because it was responsible for waking me up a number of times. It sent her emails at around 02:00 AM in the morning saying that the kp index was enough to reach us and she rushed out of bed to go outside and look up at the sky.
+
 How to
 ------
 Step 1. Create a gmail account and add the account info to the file "Settings.txt" (RobotGmailUsername and RobotGmailPassword). This account will send out email notifications.
